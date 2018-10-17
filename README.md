@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-With the help of this little program learning how to use GIT :)
+
 
 This is a simple tic-tac-toe game written in Python3. No specific algorithm is used. Just 
 simple storage and display of user input data at specific user input position. 
