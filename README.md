@@ -13,12 +13,12 @@ It contains:
 First download the code and extract it or clone it with git (using `git clone <url>`). Then move to the directory
 having the code (using `cd <path>`). Then run the file using `python3 tictactoe.py`. You will see something like this
 
-<img alt="Whoops! sorry image not available" height=400 src="/home/muskiii/TIC-TAC-TOE/gm.png">
+<img alt="Whoops! sorry image not available" height=400 src="https://github.com/Muskan-Mangal/TIC-TAC-TOE/blob/master/image/gm.png">
 
 After it , you can choose your mark and play that will look something like this:
 
-<img alt="Whoops! sorry image not available" height=400 src="/home/muskiii/TIC-TAC-TOE/gm1.png">
-<img alt="Whoops! sorry image not available" height=400 src="/home/muskiii/TIC-TAC-TOE/gm2.png">
+<img alt="Whoops! sorry image not available" height=400 src="https://github.com/Muskan-Mangal/TIC-TAC-TOE/blob/master/image/gm1.png">
+<img alt="Whoops! sorry image not available" height=400 src="https://github.com/Muskan-Mangal/TIC-TAC-TOE/blob/master/image/gm2.png">
 
 
 
