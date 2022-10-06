@@ -7,7 +7,7 @@ simple storage and display of user input data at specific user input position.
 It contains:
 1) tictactoe.py -- Conatins the main code which we r going to run on our terminal if we want to play.
 2) Readme.md -- To guide you about how the project works.
-3) image folder : contain some images of the program running on terminal
+3) image folder -- contain some images of the program running on terminal
 
 ## How to Run the code and play the game in ur PC:
 First download the code and extract it or clone it with git (using `git clone <url>`). Then move to the directory
