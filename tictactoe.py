@@ -82,6 +82,6 @@ while(pl_agn=='y'):
                 break
             elif(check(board,player1_marker)=='tie'):
                 print("TIE")
-                print("U WANNA PLAY AGAIN?")
-                pl_agn=input('if u wanna play agn press y else press n')
+                print("YOU WANNA PLAY AGAIN?")
+                pl_agn=input('If You wanna play agn press y else press n')
                 break
